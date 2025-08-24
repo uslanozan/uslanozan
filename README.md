@@ -56,4 +56,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/uslanozan/uslanozan/output/snake.svg" alt="Snake animation" />
