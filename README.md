@@ -92,12 +92,9 @@ I architect **intelligent agent systems**, **multi-LLM orchestration pipelines**
 </div>
 
 <br/>
+
 ## 📊 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=uslanozan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ozan's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uslanozan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uslanozan&theme=tokyonight&hide_border=true" alt="Streak stats"/>
@@ -113,13 +110,6 @@ I architect **intelligent agent systems**, **multi-LLM orchestration pipelines**
 
 <div align="center">
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uslanozan&theme=tokyonight" alt="Profile stats"/>
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uslanozan&theme=tokyonight" alt="Repos per language"/>
-</div>
-
-<div align="center">
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uslanozan&theme=tokyonight" alt="Most commit language"/>
-</div>
-
 <br/>
 
 <div align="center">
