@@ -41,6 +41,7 @@ I architect **intelligent agent systems**, **multi-LLM orchestration pipelines**
   <img width="12" />
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo" />
 </div>
+
 **⚙️ Backend & APIs**
 <div align="left">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo" />
