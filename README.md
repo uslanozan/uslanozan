@@ -25,17 +25,17 @@ I architect **intelligent agent systems**, **multi-LLM orchestration pipelines**
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="40" alt="openai logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="40" height="40" alt="LangGraph (LangChain) logo" />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langgraph.png" width="40" height="40" alt="LangGraph (LangChain) logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" height="40" alt="mcp logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/qdrant/D33833" height="40" alt="qdrant logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/ollama.svg" width="40" height="40" alt="ollama logo" />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" width="40" height="40" alt="ollama logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/llamaindex-color.svg" width="40" height="40" alt="llamaindex logo" />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/llamaindex.png" width="40" height="40" alt="LlamaIndex logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/fal-color.svg" width="40" height="40" alt="fal logo" />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/fal.png" width="40" height="40" alt="fal.ai logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ultralytics/0ADF9A" height="40" alt="yolo (ultralytics) logo" />
   <img width="12" />
@@ -74,7 +74,7 @@ I architect **intelligent agent systems**, **multi-LLM orchestration pipelines**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform logo" />
+  <img src="https://cdn.simpleicons.org/terraform/844FBA" width="40" height="40" alt="Terraform logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="40" alt="elasticsearch logo" />
   <img width="12" />
