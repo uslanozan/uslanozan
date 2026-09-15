@@ -25,7 +25,7 @@ I architect **intelligent agent systems**, **multi-LLM orchestration pipelines**
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="40" alt="openai logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain logo" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="40" height="40" alt="LangGraph (LangChain) logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" height="40" alt="mcp logo" />
   <img width="12" />
