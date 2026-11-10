@@ -15,10 +15,19 @@
 I architect **intelligent agent systems**, **multi-LLM orchestration pipelines**, and **high-performance backend microservices**. My work sits at the intersection of distributed systems engineering and applied AI.
 <br/>
 
+## 🧩 Recent Work
+
+- **[Clear Context](https://github.com/uslanozan/Clear-Context)**: a self-hosted fact-checking agent built solo with Meta Muse for the Meta Global AI Developer Hackathon (2026). A LangGraph workflow splits a post into claims, researches each detail with web search, reverse image search and published fact checks, and ties every finding to a quoted source passage. [Website](https://clearcontext.uslanozan.com.tr)
+- **[Tidyorg](https://github.com/uslanozan/Tidyorg)**: manage a GitHub organization from YAML with Terraform and a review-gated dashboard. One of its commits was selected for the XERJ Corpus Hub, a reference corpus AI coding agents search before writing code.
+
+  [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/uslanozan/badge.svg)](https://hub.xerj.org/contributors/uslanozan)
+
 ## 🛠️ Tech Arsenal
 
 **🧠 AI / LLM Engineering**
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/meta-color.svg" height="40" alt="Meta (Muse models) logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/anthropic.svg" height="40" alt="anthropic logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" height="40" alt="gemini logo" />
@@ -46,6 +55,15 @@ I architect **intelligent agent systems**, **multi-LLM orchestration pipelines**
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo" />
 </div>
 
+**🔎 Retrieval & Search**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.0/icons/tavily-color.svg" height="40" alt="Tavily (web search and extraction) logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlelens/4285F4" height="40" alt="Google Lens reverse image search (via SerpApi) logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="Google Fact Check Tools API logo" />
+</div>
+
 **⚙️ Backend & APIs**
 <div align="left">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo" />
@@ -55,6 +73,8 @@ I architect **intelligent agent systems**, **multi-LLM orchestration pipelines**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pydantic/E92063" height="40" alt="pydantic logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/celery/37814A" height="40" alt="celery logo" />
 </div>
@@ -72,6 +92,23 @@ I architect **intelligent agent systems**, **multi-LLM orchestration pipelines**
   <img src="./icons/amazon-s3.svg" height="40" alt="aws-s3" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/seaweedfs.svg" height="40" alt="seaweedfs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="40" alt="sqlalchemy logo" />
+</div>
+
+**🖥️ Frontend & Extensions**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mantine/339AF0" height="40" alt="mantine logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome extension (MV3) logo" />
 </div>
 
 **📊 DevOps & Observability**
